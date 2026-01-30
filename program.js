@@ -1,6 +1,6 @@
 import { legjobb } from "./autok.js";
 
-console.log("Szia Goth lány");
+console.log("Sziaa Goth lány");
 
 for (let i=1; i<=7; i++) console.log(auto);
 legjobb()
