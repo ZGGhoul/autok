@@ -4,4 +4,5 @@ export function legjobb (){
 }
 export function igaz(){
     return true;
+    console.log("TÉnyleg igaz")
 }
